@@ -2,7 +2,10 @@
 
 ## Project setup
 ```
-npm install
+- npm install
+- after installing all the package create .env file
+- open main.js and check all the env varibles 
+- in .env file mention your all the firebase key as varible declared in main.js file
 ```
 
 ### Compiles and hot-reloads for development
